@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace gudeljvjezbe1
 {
-    internal class Class1
+    internal class newClass1
     {
+        static void main(string[] args)
+        {
+            Console.WriteLine("testtttttt");
+        }
     }
 }
