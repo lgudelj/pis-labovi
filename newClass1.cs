@@ -12,6 +12,7 @@ namespace gudeljvjezbe1
         {
             Console.WriteLine("testtttttt");
             Console.WriteLine("promjena");
+            Console.WriteLine("promjena2");
         }
     }
 }
