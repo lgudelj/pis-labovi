@@ -11,6 +11,7 @@ namespace gudeljvjezbe1
         static void main(string[] args)
         {
             Console.WriteLine("testtttttt");
+            Console.WriteLine("promjena");
         }
     }
 }
